@@ -18,6 +18,5 @@ Soy estudiante apasionado por el desarrollo de aplicaciones web. Actualmente, es
 
 Me apasiona la informática y la inteligencia artificial, y estoy enfocado en desarrollarme profesionalmente en el ámbito del back-end.
 
-Si quieres saber más sobre mí o conectar profesionalmente, puedes encontrarme en:
+Si quieres saber más sobre mí o conectar profesionalmente, puedes encontrarme en [!LinkedIn(https://www.linkedin.com/in/ion-garc%C3%ADa-rodr%C3%ADguez-b278502b4/)
 
-[![LinkedIn](https://www.linkedin.com/in/ion-garc%C3%ADa-rodr%C3%ADguez-b278502b4/)
