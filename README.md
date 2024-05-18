@@ -20,4 +20,4 @@ Me apasiona la informática y la inteligencia artificial, y estoy enfocado en de
 
 Si quieres saber más sobre mí o conectar profesionalmente, puedes encontrarme en:
 
-[![LinkedIn](https://www.linkedin.com/in/ion-garc%C3%ADa-rodr%C3%ADguez-b278502b4/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ion-garc%C3%ADa-rodr%C3%ADguez-b278502b4/)
