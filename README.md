@@ -1,6 +1,6 @@
-### Hi there 👋
+###¡Hola! Soy Ion García 👋
 
-¡Hola! Soy Ion García, un estudiante apasionado por el desarrollo de aplicaciones web. Actualmente, estoy ampliando mis conocimientos en diversas tecnologías, incluyendo:
+Soy estudiante apasionado por el desarrollo de aplicaciones web. Actualmente, estoy ampliando mis conocimientos en diversas tecnologías, incluyendo:
 
 >Java
 
@@ -20,4 +20,4 @@ Me apasiona la informática y la inteligencia artificial, y estoy enfocado en de
 
 Si quieres saber más sobre mí o conectar profesionalmente, puedes encontrarme en:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn)](https://www.linkedin.com/in/ion-garc%C3%ADa-rodr%C3%ADguez-b278502b4/)
+[![LinkedIn](https://www.linkedin.com/in/ion-garc%C3%ADa-rodr%C3%ADguez-b278502b4/)
