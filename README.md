@@ -1,4 +1,4 @@
-###¡Hola! Soy Ion García 👋
+# ¡Hola! Soy Ion García 👋
 
 Soy estudiante apasionado por el desarrollo de aplicaciones web. Actualmente, estoy ampliando mis conocimientos en diversas tecnologías, incluyendo:
 
