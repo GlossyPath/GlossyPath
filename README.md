@@ -8,8 +8,6 @@ Estudiante apasionado por el desarrollo de aplicaciones web. Actualmente, estoy 
 
 >CSS
 
->XQuery
-
 >SQL
 
 >MySQL
