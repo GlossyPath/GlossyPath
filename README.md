@@ -1,6 +1,8 @@
 # ¡Hola! Soy Ion García 👋
 
-Estudiante apasionado por el desarrollo de aplicaciones web. Actualmente, estoy ampliando mis conocimientos en diversas tecnologías, incluyendo:
+Estudiante apasionado por la programación, siempre en busca de nuevos desafíos y oportunidades para aprender. Mi curiosidad y deseo de innovación me han llevado a explorar diversas tecnologías.
+
+## Tecnologías en las que estoy Trabajando:
 
 >Java
 
@@ -8,9 +10,7 @@ Estudiante apasionado por el desarrollo de aplicaciones web. Actualmente, estoy 
 
 >CSS
 
->SQL
-
->MySQL
+>SQL y MySQL
 
 >Git (aprendiendo)
 
