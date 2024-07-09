@@ -2,7 +2,7 @@
 
 Estudiante apasionado por la programación, siempre en busca de nuevos desafíos y oportunidades para aprender. Mi curiosidad y deseo de innovación me han llevado a explorar diversas tecnologías.
 
-## Tecnologías en las que estoy Trabajando:
+## Tecnologías en las que estoy ampliando conocimientos:
 
 >Java
 
@@ -12,11 +12,13 @@ Estudiante apasionado por la programación, siempre en busca de nuevos desafíos
 
 >SQL y MySQL
 
->Git (aprendiendo)
+## Tecnologías  que estoy aprendiendo:
 
->Laravel (aprendiendo)
+>Git 
 
->JavaFX y SceneBuilder (aprendiendo)
+>Laravel 
+
+>JavaFX y SceneBuilder 
 
 Me apasiona la informática y la inteligencia artificial, y estoy enfocado en desarrollarme profesionalmente en el ámbito del back-end.
 
