@@ -2,15 +2,15 @@
 
 Estudiante apasionado por la programación, siempre en busca de nuevos desafíos y oportunidades para aprender. Mi curiosidad y deseo de innovación me han llevado a explorar diversas tecnologías.
 
-## Tecnologías en las que estoy ampliando conocimientos:
+## Tecnologías en las que estoy ampliando conocimientos:</span>  
 
->Java
+- Java
 
->HTML
+- HTML
 
->CSS
+- CSS
 
->SQL y MySQL
+- SQL y MySQL
 
 ## Tecnologías  que estoy aprendiendo:
 
