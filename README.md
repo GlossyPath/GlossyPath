@@ -18,7 +18,9 @@ Estudiante apasionado por la programación, siempre en busca de nuevos desafíos
 
 >Laravel 
 
->JavaFX y SceneBuilder 
+>JavaFX y SceneBuilder
+
+>Spring Boot
 
 Me apasiona la informática y la inteligencia artificial, y estoy enfocado en desarrollarme profesionalmente en el ámbito del back-end.
 
