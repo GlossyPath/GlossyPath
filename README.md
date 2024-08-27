@@ -20,7 +20,7 @@ Estudiante apasionado por la programación, siempre en busca de nuevos desafíos
 
 >JavaFX y SceneBuilder
 
->Spring Boot
+>Spring
 
 Me apasiona la informática y la inteligencia artificial, y estoy enfocado en desarrollarme profesionalmente en el ámbito del back-end.
 
