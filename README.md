@@ -12,11 +12,9 @@ Estudiante apasionado por la programación, siempre en busca de nuevos desafíos
 
 - SQL y MySQL
 
-## Tecnologías  que estoy aprendiendo:
+-  Git
 
->Git 
-
->Laravel 
+## Tecnologías  que estoy aprendiendo: 
 
 >JavaFX y SceneBuilder
 
