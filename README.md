@@ -16,6 +16,8 @@ Estudiante apasionado por la programación, siempre en busca de nuevos desafíos
 
 ## Tecnologías  que estoy aprendiendo: 
 
+> PHP
+
 > JavaScript
 
 >JavaFX y SceneBuilder
