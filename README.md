@@ -12,11 +12,11 @@ Estudiante apasionado por la programación, siempre en busca de nuevos desafíos
 
 - SQL y MySQL
 
+- PHP
+
 -  Git
 
 ## Tecnologías  que estoy aprendiendo: 
-
-> PHP
 
 > JavaScript
 
