@@ -6,19 +6,19 @@ Estudiante apasionado por la programación, siempre en busca de nuevos desafíos
 
 - Java
 
-- HTML
+- HTML5
 
-- CSS
+- CSS3
 
 - SQL y MySQL
 
 - PHP
 
--  Git
+- Git
 
 ## Tecnologías  que estoy aprendiendo: 
 
-> JavaScript
+JavaScript
 
 >JavaFX y SceneBuilder
 
