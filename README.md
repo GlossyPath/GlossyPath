@@ -5,36 +5,36 @@ I'm a passionate programming student, always looking for new challenges and oppo
 ## Technologies I’m expanding my knowledge in:
 
 - Java  
-  ![Java Logo](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+  ![Java Logo](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg)
 
 - HTML5  
-  ![HTML5 Logo](https://img.icons8.com/color/48/000000/html-5-logo.png)
+  ![HTML5 Logo](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg)
 
 - CSS3  
-  ![CSS3 Logo](https://img.icons8.com/color/48/000000/css3-logo.png)
+  ![CSS3 Logo](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg)
 
 - SQL and MySQL  
-  ![MySQL Logo](https://img.icons8.com/color/48/000000/mysql-logo.png)
+  ![MySQL Logo](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg)
 
 - PHP  
-  ![PHP Logo](https://img.icons8.com/color/48/000000/php-logo.png)
+  ![PHP Logo](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg)
 
 - Git  
-  ![Git Logo](https://img.icons8.com/color/48/000000/git.png)
+  ![Git Logo](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg)
 
 ## Technologies I'm currently learning:
 
 - JavaScript  
-  ![JavaScript Logo](https://img.icons8.com/color/48/000000/javascript.png)
+  ![JavaScript Logo](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg)
 
 - JavaFX and SceneBuilder  
-  ![JavaFX Logo](https://img.icons8.com/color/48/000000/javafx.png)
+  ![JavaFX Logo](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg)
 
-- Spring  
-  ![Spring Logo](https://img.icons8.com/color/48/000000/spring-logo.png)
+- Spring Boot  
+  ![Spring Logo](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg)
 
 - Docker  
-  ![Docker Logo](https://img.icons8.com/color/48/000000/docker.png)
+  ![Docker Logo](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg)
 
 I’m passionate about computer science and artificial intelligence, and I’m focused on developing professionally in the back-end field.
 
