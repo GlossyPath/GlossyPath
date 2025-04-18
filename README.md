@@ -4,27 +4,27 @@ I'm a passionate programming student, always looking for new challenges and oppo
 
 ## Technologies I’m expanding my knowledge in:
 
-- Java  ![Java Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) { width=5px }
+- Java  ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg){: width="24" height="24"}
 
-- HTML5  ![HTML5 Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) { width=5px }
+- HTML5  ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg){: width="24" height="24"}
 
-- CSS3  ![CSS3 Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) { width=5px }
+- CSS3  ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg){: width="24" height="24"}
 
-- SQL and MySQL  ![MySQL Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) { width=5px }
+- SQL and MySQL  ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg){: width="24" height="24"}
 
-- PHP  ![PHP Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg) { width=5px }
+- PHP  ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg){: width="24" height="24"}
 
-- Git  ![Git Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) { width=5px }
+- Git  ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg){: width="24" height="24"}
 
 ## Technologies I'm currently learning:
 
-- JavaFX and SceneBuilder  ![JavaFX Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) { width=5px } *(JavaFX usa el logo de Java)*
+- JavaFX  ![JavaFX](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/JavaFX_Logo.png/64px-JavaFX_Logo.png){: width="24" height="24"}
 
-- Spring Boot  ![Spring Boot Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg) { width=5px }
+- Spring Boot  ![Spring](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg){: width="24" height="24"}
 
-- Docker  ![Docker Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) { width=5px }
+- Docker  ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg){: width="24" height="24"}
 
-- Laravel  ![Laravel Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg) { width=5px }
+- Laravel  ![Laravel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg){: width="24" height="24"}
 
 I’m passionate about computer science and artificial intelligence, and I’m focused on developing professionally in the back-end field.
 
