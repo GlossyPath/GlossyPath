@@ -2,6 +2,8 @@
 
 I'm a passionate programming student, always looking for new challenges and opportunities to learn. My curiosity and desire for innovation have led me to explore various technologies.
 
+---
+
 ## Technologies I’m expanding my knowledge in:
 
 - Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45">
