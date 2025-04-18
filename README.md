@@ -4,7 +4,7 @@ I'm a passionate programming student, always looking for new challenges and oppo
 
 ## Technologies I’m expanding my knowledge in:
 
-- Java  ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg){: width="24" height="24"}
+- Java  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24" height="24">
 
 - HTML5  ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg){: width="24" height="24"}
 
