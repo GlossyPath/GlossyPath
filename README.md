@@ -5,36 +5,36 @@ I'm a passionate programming student, always looking for new challenges and oppo
 ## Technologies I’m expanding my knowledge in:
 
 - Java  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Java_logo_icon.png" width="20" align="right" />
+  ![Java Logo](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 
 - HTML5  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/HTML5_logo_and_wordmark.svg" width="20" align="right" />
+  ![HTML5 Logo](https://img.icons8.com/color/48/000000/html-5-logo.png)
 
 - CSS3  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="20" align="right" />
+  ![CSS3 Logo](https://img.icons8.com/color/48/000000/css3-logo.png)
 
 - SQL and MySQL  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/MySQL_logo.png" width="20" align="right" />
+  ![MySQL Logo](https://img.icons8.com/color/48/000000/mysql-logo.png)
 
 - PHP  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="20" align="right" />
+  ![PHP Logo](https://img.icons8.com/color/48/000000/php-logo.png)
 
 - Git  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Git-logo.svg" width="20" align="right" />
+  ![Git Logo](https://img.icons8.com/color/48/000000/git.png)
 
 ## Technologies I'm currently learning:
 
 - JavaScript  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/JavaScript-logo.png" width="20" align="right" />
+  ![JavaScript Logo](https://img.icons8.com/color/48/000000/javascript.png)
 
 - JavaFX and SceneBuilder  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/JavaFX_logo.svg" width="20" align="right" />
+  ![JavaFX Logo](https://img.icons8.com/color/48/000000/javafx.png)
 
 - Spring  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Spring_Framework_Logo_2018.svg" width="20" align="right" />
+  ![Spring Logo](https://img.icons8.com/color/48/000000/spring-logo.png)
 
 - Docker  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Docker_logo.png" width="20" align="right" />
+  ![Docker Logo](https://img.icons8.com/color/48/000000/docker.png)
 
 I’m passionate about computer science and artificial intelligence, and I’m focused on developing professionally in the back-end field.
 
