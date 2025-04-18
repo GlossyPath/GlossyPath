@@ -29,4 +29,3 @@ I'm a passionate programming student, always looking for new challenges and oppo
 I’m passionate about computer science and artificial intelligence, and I’m focused on developing professionally in the back-end field.
 
 If you’d like to learn more about me or connect professionally, feel free to find me on [LinkedIn](https://www.linkedin.com/in/ion-garc%C3%ADa-rodr%C3%ADguez-b278502b4/).
-
