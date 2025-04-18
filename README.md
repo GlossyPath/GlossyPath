@@ -28,7 +28,10 @@ I'm a passionate programming student, always looking for new challenges and oppo
 
 - JPA (Java Persistence API) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" title="JPA"> 
 
-- JPQL (Java Persistence Query Language) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" title="JPQL"> 
+- JPQL (Java Persistence Query Language) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" title="JPQL">
+
+## Architectural Concepts I’m Learning:
+- Layered Architecture (Presentation, Business, Integration layers)
   
 I’m passionate about computer science and artificial intelligence, and I’m focused on developing professionally in the back-end field.
 
