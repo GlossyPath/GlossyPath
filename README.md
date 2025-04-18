@@ -18,7 +18,7 @@ I'm a passionate programming student, always looking for new challenges and oppo
 
 ## Technologies I'm currently learning:
 
-- JavaFX <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/JavaFX_Logo.png/64px-JavaFX_Logo.png" width="45" height="45">
+- JavaFX
 
 - Spring Boot <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45">
 
