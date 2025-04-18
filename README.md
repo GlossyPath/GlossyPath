@@ -24,7 +24,8 @@ I'm a passionate programming student, always looking for new challenges and oppo
 
 - Docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45">
 
-- Laravel <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="45" height="45">
+- Laravel <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width="45" height="45">
+
 
 I’m passionate about computer science and artificial intelligence, and I’m focused on developing professionally in the back-end field.
 
