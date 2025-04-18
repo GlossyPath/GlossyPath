@@ -4,12 +4,14 @@ I'm a passionate programming student, always looking for new challenges and oppo
 
 ## Technologies I’m expanding my knowledge in:
 
-- Java  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="30"/>
+- Java  
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="30"/>
 
-- HTML5  <img src="https://img.icons8.com/color/48/000000/html-5-logo.png" width="30"/>
+- HTML5  
+  <img src="https://img.icons8.com/color/48/000000/html-5-logo.png" width="30"/>
 
 - CSS3  
-  <img src="https://img.icons8.com/color/48/000000/css3-logo.png" width="30"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" width="30"/>
 
 - SQL and MySQL  
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="30"/>
