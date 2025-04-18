@@ -4,37 +4,37 @@ I'm a passionate programming student, always looking for new challenges and oppo
 
 ## Technologies I’m expanding my knowledge in:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Java_logo_icon.png" width="20" />  
-- Java
+- Java  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Java_logo_icon.png" width="20" align="right" />
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/HTML5_logo_and_wordmark.svg" width="20" />  
-- HTML5
+- HTML5  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/HTML5_logo_and_wordmark.svg" width="20" align="right" />
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="20" />  
-- CSS3
+- CSS3  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="20" align="right" />
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/MySQL_logo.png" width="20" />  
-- SQL and MySQL
+- SQL and MySQL  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/MySQL_logo.png" width="20" align="right" />
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="20" />  
-- PHP
+- PHP  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="20" align="right" />
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Git-logo.svg" width="20" />  
-- Git
+- Git  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Git-logo.svg" width="20" align="right" />
 
 ## Technologies I'm currently learning:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/JavaScript-logo.png" width="20" />  
-- JavaScript
+- JavaScript  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/JavaScript-logo.png" width="20" align="right" />
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/JavaFX_logo.svg" width="20" />  
-> JavaFX and SceneBuilder
+- JavaFX and SceneBuilder  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/JavaFX_logo.svg" width="20" align="right" />
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Spring_Framework_Logo_2018.svg" width="20" />  
-> Spring
+- Spring  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Spring_Framework_Logo_2018.svg" width="20" align="right" />
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Docker_logo.png" width="20" />  
-> Docker
+- Docker  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Docker_logo.png" width="20" align="right" />
 
 I’m passionate about computer science and artificial intelligence, and I’m focused on developing professionally in the back-end field.
 
