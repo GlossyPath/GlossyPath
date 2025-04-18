@@ -4,27 +4,27 @@ I'm a passionate programming student, always looking for new challenges and oppo
 
 ## Technologies I’m expanding my knowledge in:
 
-- Java  ![Java Logo](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+- Java  ![Java Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
 
-- HTML5  ![HTML5 Logo](https://img.icons8.com/color/48/000000/html-5-logo.png)
+- HTML5  ![HTML5 Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
 
-- CSS3  ![CSS3 Logo](https://img.icons8.com/color/48/000000/css3-logo.png)
+- CSS3  ![CSS3 Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
 
-- SQL and MySQL  ![MySQL Logo](https://img.icons8.com/color/48/000000/mysql-logo.png)
+- SQL and MySQL  ![MySQL Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
 
-- PHP  ![PHP Logo](https://img.icons8.com/color/48/000000/php-logo.png)
+- PHP  ![PHP Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)
 
-- Git  ![Git Logo](https://img.icons8.com/color/48/000000/git.png)
+- Git  ![Git Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
 
 ## Technologies I'm currently learning:
 
-- JavaFX and SceneBuilder  ![JavaFX Logo](https://img.icons8.com/color/48/000000/javafx.png)
+- JavaFX and SceneBuilder  ![JavaFX Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) *(JavaFX usa el logo de Java)*
 
-- Spring Boot  ![Spring Boot Logo](https://img.icons8.com/color/48/000000/spring-logo.png)
+- Spring Boot  ![Spring Boot Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg)
 
-- Docker  ![Docker Logo](https://img.icons8.com/color/48/000000/docker.png)
+- Docker  ![Docker Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)
 
-- Laravel  ![Laravel Logo](https://img.icons8.com/color/48/000000/laravel.png)
+- Laravel  ![Laravel Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg)
 
 I’m passionate about computer science and artificial intelligence, and I’m focused on developing professionally in the back-end field.
 
