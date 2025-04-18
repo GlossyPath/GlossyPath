@@ -32,6 +32,11 @@ I'm a passionate programming student, always looking for new challenges and oppo
 
 ## Architectural Concepts I’m Learning:
 - Layered Architecture (Presentation, Business, Integration layers)
+
+## 📚 Topics I Intend to Study:
+Hexagonal Architecture (Ports and Adapters)
+
+Separation of Concerns between Back-End and Front-End
   
 I’m passionate about computer science and artificial intelligence, and I’m focused on developing professionally in the back-end field.
 
