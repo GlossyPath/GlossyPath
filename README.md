@@ -5,40 +5,41 @@ I'm a passionate programming student, always looking for new challenges and oppo
 ## Technologies I’m expanding my knowledge in:
 
 - Java  
-  <span>Java</span> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="30"/>
+  ![Java Logo](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 
 - HTML5  
-  <span>HTML5</span> <img src="https://img.icons8.com/color/48/000000/html-5-logo.png" width="30"/>
+  ![HTML5 Logo](https://img.icons8.com/color/48/000000/html-5-logo.png)
 
 - CSS3  
-  <span>CSS3</span> <img src="https://img.icons8.com/color/48/000000/css3-logo.png" width="30"/>
+  ![CSS3 Logo](https://img.icons8.com/color/48/000000/css3-logo.png)
 
 - SQL and MySQL  
-  <span>SQL and MySQL</span> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="30"/>
+  ![MySQL Logo](https://img.icons8.com/color/48/000000/mysql-logo.png)
 
 - PHP  
-  <span>PHP</span> <img src="https://img.icons8.com/color/48/000000/php-logo.png" width="30"/>
+  ![PHP Logo](https://img.icons8.com/color/48/000000/php-logo.png)
 
 - Git  
-  <span>Git</span> <img src="https://img.icons8.com/color/48/000000/git.png" width="30"/>
+  ![Git Logo](https://img.icons8.com/color/48/000000/git.png)
 
 ## Technologies I'm currently learning:
 
 - JavaScript  
-  <span>JavaScript</span> <img src="https://img.icons8.com/color/48/000000/javascript.png" width="30"/>
+  ![JavaScript Logo](https://img.icons8.com/color/48/000000/javascript.png)
 
 - JavaFX and SceneBuilder  
-  <span>JavaFX and SceneBuilder</span> <img src="https://img.icons8.com/color/48/000000/javafx.png" width="30"/>
+  ![JavaFX Logo](https://img.icons8.com/color/48/000000/javafx.png)
 
 - Spring Boot  
-  <span>Spring Boot</span> <img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="30"/>
+  ![Spring Boot Logo](https://img.icons8.com/color/48/000000/spring-logo.png)
 
 - Docker  
-  <span>Docker</span> <img src="https://img.icons8.com/color/48/000000/docker.png" width="30"/>
+  ![Docker Logo](https://img.icons8.com/color/48/000000/docker.png)
 
 - Laravel  
-  <span>Laravel</span> <img src="https://img.icons8.com/color/48/000000/laravel.png" width="30"/>
+  ![Laravel Logo](https://img.icons8.com/color/48/000000/laravel.png)
 
 I’m passionate about computer science and artificial intelligence, and I’m focused on developing professionally in the back-end field.
 
 If you’d like to learn more about me or connect professionally, feel free to find me on [LinkedIn](https://www.linkedin.com/in/ion-garc%C3%ADa-rodr%C3%ADguez-b278502b4/).
+
