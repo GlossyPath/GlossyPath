@@ -4,27 +4,27 @@ I'm a passionate programming student, always looking for new challenges and oppo
 
 ## Technologies I’m expanding my knowledge in:
 
-- Java  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24" height="24">
+- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45">
 
-- HTML5  ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg){: width="24" height="24"}
+- HTML5 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45">
 
-- CSS3  ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg){: width="24" height="24"}
+- CSS3 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45">
 
-- SQL and MySQL  ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg){: width="24" height="24"}
+- SQL and MySQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45">
 
-- PHP  ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg){: width="24" height="24"}
+- PHP <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45">
 
-- Git  ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg){: width="24" height="24"}
+- Git <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45">
 
 ## Technologies I'm currently learning:
 
-- JavaFX  ![JavaFX](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/JavaFX_Logo.png/64px-JavaFX_Logo.png){: width="24" height="24"}
+- JavaFX <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/JavaFX_Logo.png/64px-JavaFX_Logo.png" width="45" height="45">
 
-- Spring Boot  ![Spring](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg){: width="24" height="24"}
+- Spring Boot <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45">
 
-- Docker  ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg){: width="24" height="24"}
+- Docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45">
 
-- Laravel  ![Laravel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg){: width="24" height="24"}
+- Laravel <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="45" height="45">
 
 I’m passionate about computer science and artificial intelligence, and I’m focused on developing professionally in the back-end field.
 
