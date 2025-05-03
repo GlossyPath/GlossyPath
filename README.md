@@ -4,7 +4,7 @@ I'm a passionate programming student, always looking for new challenges and oppo
 
 ---
 
-## Technologies I’m expanding my knowledge in:
+## 🚀 Technologies I’m expanding my knowledge in:
 
 - Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45">
 
@@ -18,7 +18,7 @@ I'm a passionate programming student, always looking for new challenges and oppo
 
 - Git <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45">
 
-## Technologies I'm currently learning:
+## 📘 Technologies I'm currently learning:
 
 - JavaFX
 
@@ -32,7 +32,7 @@ I'm a passionate programming student, always looking for new challenges and oppo
 
 - JPQL (Java Persistence Query Language) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" title="JPQL">
 
-## Architectural Concepts I’m Learning:
+## 🧱 Architectural Concepts I’m Learning:
 - Layered Architecture (Presentation, Business, Integration layers)
 
 ## 📚 Topics I Intend to Study:
