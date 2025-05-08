@@ -20,7 +20,7 @@ I'm a passionate programming student, always looking for new challenges and oppo
 
 ## 📘 Technologies I'm currently learning:
 
-- JavaFX
+- RabbitMQ
 
 - Spring Boot <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45">
 
