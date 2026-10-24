@@ -24,8 +24,6 @@ I'm a passionate programming student, always looking for new challenges and oppo
 
 - Docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45">
 
-- Laravel <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width="45" height="45">
-
 - JPA (Java Persistence API) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" title="JPA"> 
 
 - JPQL (Java Persistence Query Language) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" title="JPQL">
