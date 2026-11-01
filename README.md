@@ -22,6 +22,7 @@ I'm a passionate programming student, always looking for new challenges and oppo
 
 - Spring Cloud <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45">
 
+
 - RabbitMQ <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" width="120" alt="RabbitMQ Logo">
 
 - Docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45">
