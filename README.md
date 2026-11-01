@@ -20,6 +20,8 @@ I'm a passionate programming student, always looking for new challenges and oppo
 
 ## 📘 Technologies I'm currently learning:
 
+- Spring Cloud <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45">
+
 - RabbitMQ <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" width="120" alt="RabbitMQ Logo">
 
 - Docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45">
@@ -29,7 +31,9 @@ I'm a passionate programming student, always looking for new challenges and oppo
 - JPQL (Java Persistence Query Language) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" title="JPQL">
 
 ## 🧱 Architectural Concepts I’m Learning:
-- Layered Architecture (Presentation, Business, Integration layers)
+- Microservices Architecture
+- Large Language Models (LLMs)
+- CI/CD and DevOps
 
 ## 📚 Topics I Intend to Study:
 - Hexagonal Architecture (Ports and Adapters)
